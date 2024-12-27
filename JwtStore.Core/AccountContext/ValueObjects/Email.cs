@@ -1,4 +1,4 @@
-﻿using JwtStore.Core.AccountContext.Exceptions;
+﻿using JwtStore.Core.SharedContext.Exceptions;
 using JwtStore.Core.SharedContext.Extensions;
 using JwtStore.Core.SharedContext.ValueObjects;
 using System.Text.RegularExpressions;
