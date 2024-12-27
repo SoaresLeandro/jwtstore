@@ -1,0 +1,12 @@
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\bin\Debug\net9.0\JwtStore.Infra.deps.json
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\bin\Debug\net9.0\JwtStore.Infra.dll
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\bin\Debug\net9.0\JwtStore.Infra.pdb
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.AssemblyInfoInputs.cache
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.AssemblyInfo.cs
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.sourcelink.json
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.dll
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\obj\Debug\net9.0\refint\JwtStore.Infra.dll
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\obj\Debug\net9.0\JwtStore.Infra.pdb
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtStore\JwtStore.Infra\obj\Debug\net9.0\ref\JwtStore.Infra.dll
